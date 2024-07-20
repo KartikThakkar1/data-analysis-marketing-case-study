@@ -1,4 +1,5 @@
 # CASE STUDY: Bellabeat Data Analysis
+###### [Click to visit my Tableau Public profile](https://public.tableau.com/app/profile/kartik.thakkar/vizzes)
 
 ## Contents 
 
